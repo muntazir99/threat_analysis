@@ -3,6 +3,6 @@ Summary Report
 Total Lines Checked: 5
 Total Matches Found: 3
 Unique Threat Signatures Detected:
-- 203.0.113.5
 - external device
 - suspiciousdomain.com
+- 203.0.113.5
